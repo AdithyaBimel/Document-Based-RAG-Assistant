@@ -1,0 +1,17 @@
+torch==2.2.0
+torchvision
+torchaudio
+langchain==0.1.20
+langchain-community==0.0.38
+sentence-transformers==2.7.0
+faiss-cpu==1.8.0
+pdfplumber==0.11.0
+streamlit==1.35.0
+transformers==4.41.0
+accelerate==0.30.0
+bitsandbytes==0.43.1
+fastapi==0.111.0
+uvicorn==0.30.0
+python-dotenv==1.0.1
+python-multipart==0.0.9
+requests==2.32.2

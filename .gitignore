@@ -1,0 +1,15 @@
+# Environment
+.env
+rag-env/
+__pycache__/
+*.pyc
+
+# Vector store (large files)
+vectorstore/
+
+# Uploaded documents
+documents/
+
+# Model cache
+.cache/
+models/
